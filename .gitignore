@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+public/
+yarn.lock
+pageage-lock.json
+yarn-error.log
+.code
+.vscode
+dist/
