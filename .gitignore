@@ -1,6 +1,6 @@
 node_modules/
 .idea/
-public/
+./public/
 yarn.lock
 pageage-lock.json
 yarn-error.log
