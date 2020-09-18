@@ -101,6 +101,7 @@ module.exports = {
         email: 'zhangyushuai126@126.com',
         link: 'https://www.zrain.top'
       },
+
       {
         title: '午后南杂',
         desc: 'Enjoy when you can, and endure when you must',
@@ -119,7 +120,7 @@ module.exports = {
     searchMaxSuggestions: 10,
     lastUpdated: 'Last Updated',
     author: '雨鱼',
-    authorAvatar: '/avatar.png',
+    authorAvatar: '/avatar.jpg',
     record: '',
     startYear: '2017'
   },
