@@ -3,7 +3,7 @@
 module.exports = {
   title: '雨鱼',
   description: '',
-  dest: 'public',
+  dest: 'dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
